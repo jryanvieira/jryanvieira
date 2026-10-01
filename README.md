@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Ryan Vieira de Araujo, tenho 21 anos e sou natural do Rio Grande do Sul. Conclui o ensino médio no Instituto Federal do Rio Grande do Sul, com o curso técnico em informática para a internet. Atualmente estou cursando Análise e Desenvolvimento de Sistema na Uniftec. Já estou trabalhando na área a 3 anos, tendo a maior parte do tempo trabalhado com PHP, JavaScript e um pouco de Golang.
+Me chamo João Ryan Vieira de Araujo, tenho 22 anos e sou natural do Rio Grande do Sul. Conclui o ensino médio no Instituto Federal do Rio Grande do Sul, com o curso técnico em informática para a internet. Atualmente estou cursando Análise e Desenvolvimento de Sistema na Uniftec. Já estou trabalhando na área a 4 anos, tendo a maior parte do tempo trabalhado com PHP, JavaScript e Golang.
 
 --- 
 
